@@ -2,6 +2,6 @@
 {
     public class Test
     {
-        
+        Console.WriteLine("Hello, world!");
     }
 }
